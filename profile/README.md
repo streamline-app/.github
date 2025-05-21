@@ -1,1 +1,1 @@
-The flight sim addon management app and marketplace :D ♥
+The Streamline flight sim addon distribution platform :D ♥
